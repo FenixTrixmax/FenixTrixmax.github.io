@@ -103,6 +103,7 @@ section.main img {
 
 section.main span {
     color: #fffffe;
+    border-radius: 100%;
     font-size: 30px;
     font-weight: bold;
 }
